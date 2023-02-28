@@ -5,20 +5,20 @@
 		<title>测试用的自由文档</title>
 		<subtitle>测试用的自由文档子标题</subtitle>
 		<author>
-			<personname>王金涛</personname>
+			<personname>涛涛</personname>
 		</author>
 		<revhistory>
 			<revision>
 				<revnumber>0.0.1</revnumber>
 				<date>2015-01-01</date>
 				<revremark>创建该文档。</revremark>
-				<authorinitials>王金涛</authorinitials>
+				<authorinitials>涛涛</authorinitials>
 			</revision>
 			<revision>
 				<revnumber>0.0.2</revnumber>
 				<date>2015-01-02</date>
 				<revremark>修改该文档。</revremark>
-				<authorinitials>王金涛</authorinitials>
+				<authorinitials>涛涛</authorinitials>
 			</revision>
 		</revhistory>
 	</info>
