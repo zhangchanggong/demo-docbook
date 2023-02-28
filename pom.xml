@@ -10,7 +10,7 @@
 		<project.build.sourceEncoding>utf-8</project.build.sourceEncoding>
 		<translation>zh-CN</translation>
 
-		<plantuml.version>1.2022.6</plantuml.version>
+		<plantuml.version>1.2023.1</plantuml.version>
 		<jlatexmath.version>1.0.7</jlatexmath.version>
 		<plantuml-plugin.version>1.2</plantuml-plugin.version>
 		<taotao-docbook-plugin.version>1.0.1-RELEASE</taotao-docbook-plugin.version>
